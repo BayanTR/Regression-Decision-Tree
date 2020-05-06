@@ -1,2 +1,2 @@
 # Regression-Decision-Tree
-تعتمد أشجار القرار على نوع المتغير المستهدف ،فشجرة القرار التي لها متغير هدف مستمر يطلق عليها شجرة القرار لمتغير مستمر وعادة ما يتم استخدام أشجار الانحدار عندما يكون متغير الهدف مستمراً.ويوضح الكود التالي استخدام أشجار القرار في التنبؤ لمجموعة من النقاط ورسم الداتا المقابلة لشجرة بعمق 2 وأخرى بعمق 5
+Decision trees depend on the type of target variable. A decision tree that has a continuous target variable is called a decision tree of a continuous variable. Regression trees are usually used when the target variable is continuous. The following code illustrates the use of decision trees in predicting a set of points and drawing data corresponding to a tree with a depth of 2 and a depth of 5
